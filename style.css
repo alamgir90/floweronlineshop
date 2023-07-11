@@ -1,4 +1,4 @@
-/*======= BASIC STYLE =========*/
+
 *{
     margin: 0;
     padding: 0;
@@ -27,7 +27,7 @@ h2{
 }
 
 
-/*====== HEADER SECTION STYLE======= */
+/*Header Start */
 .header-section{
     display: flex;
     justify-content: space-around;
@@ -54,7 +54,8 @@ h2{
     margin-top: 50px;
 }
 
-/*====== FEATURED SECTION STYLE======= */
+/*FEATURED */
+
 .featured{
     width: 1440px;
     margin: auto;
@@ -131,7 +132,7 @@ h2{
     margin-top: 20px;
 }
 
-/*====== DEAL SECTION STYLE======= */
+/*deal section */
 
 .deal{
     display: flex;
